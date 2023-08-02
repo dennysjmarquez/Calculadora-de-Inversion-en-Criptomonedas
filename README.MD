@@ -46,16 +46,4 @@ Es importante agregar la API key de Messari al archivo .env del servidor, de lo 
 7. Finalmente, abra su navegador web y visite la dirección http://127.0.0.1:5173/ para ver la aplicación en
    funcionamiento.
 
-## Nota
-
-Este proyecto y las mejoras son una muestra de mi potencial y habilidades para el desarrollo de aplicaciones web, a
-pesar de que no conocía la librería react-admin trate de trabajar lo más rápido posible.
-
-Este desafío representa una oportunidad para mí de demostrar mis capacidades de adaptación, creatividad y habilidades
-técnicas.
-
-Agradezco la oportunidad de presentar este proyecto y espero poder continuar mi carrera profesional en Nisum una empresa
-de renombre en el sector, con una amplia experiencia en el desarrollo de soluciones innovadoras y de calidad.
-
-Si se me brinda la oportunidad, estoy seguro de que podré aportar mi experiencia y conocimientos al equipo y trabajar en
-colaboración para alcanzar los objetivos establecidos 🤜🤛
+-- END --
