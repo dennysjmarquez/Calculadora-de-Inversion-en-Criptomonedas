@@ -8,6 +8,11 @@ Cardano. La aplicación calcula la ganancia anual para cada moneda, asumiendo qu
 
 Además, la aplicación muestra el balance proyectado final del monto invertido y su equivalente en cripto. También
 incluye una tabla actualizada con información sobre las 3 criptomonedas
+---
+
+Puede ver una **demo** alojada en: https://crypto-inv-calc-api-messari-demo.onrender.com
+
+---
 
 ## Cómo usar la aplicación
 
@@ -16,7 +21,7 @@ aplicación mostrará la ganancia anual y el balance proyectado de cada inversi�
 
 ## Tecnologías utilizadas
 
-La aplicación fue desarrollada utilizando HTML, CSS, React, Node.js, Express.js, Tailwind Css, axios.
+La aplicación fue desarrollada utilizando HTML, CSS, React, Node.js, Express.js, Tailwind Css, axios, Messari API
 
 ### Instalación
 
